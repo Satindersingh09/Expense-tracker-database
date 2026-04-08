@@ -1,4 +1,4 @@
--- database/seed_data.sql
+-- database/demo_data.sql
 USE expense_tracker_db;
 
 -- 1. Clean Slate (Ensures script can be run multiple times)
