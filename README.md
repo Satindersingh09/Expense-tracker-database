@@ -54,8 +54,6 @@ Query 3: Group Balance Sheet
 
 Berlin Flat   900.00
 
-Screenshots of query results can be added in the repo for clarity.
-
 🔮 Future Work
 Automate debt splitting for group expenses
 Add categories for expenses (Food, Utilities, Entertainment)
